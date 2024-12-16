@@ -27,3 +27,5 @@ plt.show()
 This displays the following plot:
 
 ![Home run trajectories plot](images/hr-traj.png)
+
+[YouTube video tutorial](https://youtu.be/dsg0zK6EFAE) on creating this same visual using Power BI.
